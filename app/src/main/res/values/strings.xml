@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Primjeri birača</string>
+    <string name="birac_brojeva">Birač brojeva</string>
+    <string name="birac_vremena">Birač vremena</string>
+    <string name="birac_datuma">Birač datuma</string>
+    <string name="izabrani_broj">Izabrani broj</string>
+    <string name="izabrana_boja">Izabrana boja</string>
+</resources>
