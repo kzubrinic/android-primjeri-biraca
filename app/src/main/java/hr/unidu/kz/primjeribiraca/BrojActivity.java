@@ -1,16 +1,11 @@
 package hr.unidu.kz.primjeribiraca;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
-import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.NumberPicker;
 import android.widget.TextView;
 
-/**
- * Created by kruno on 14.10.16..
- */
 public class BrojActivity extends AppCompatActivity {
     NumberPicker np, tp;
     @Override

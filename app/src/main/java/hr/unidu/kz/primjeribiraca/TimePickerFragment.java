@@ -4,8 +4,8 @@ package hr.unidu.kz.primjeribiraca;
 import android.app.Dialog;
 import android.app.TimePickerDialog;
 import android.os.Bundle;
-import android.support.v4.app.DialogFragment;
-import android.text.format.DateFormat;
+import androidx.fragment.app.DialogFragment;
+
 import android.widget.TextView;
 import android.widget.TimePicker;
 
